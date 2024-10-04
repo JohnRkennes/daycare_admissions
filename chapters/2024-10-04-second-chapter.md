@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapter 2
+title: Policy
 tags: first draft
 categories: demo
 ---
