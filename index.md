@@ -4,6 +4,10 @@ layout: home
 
 
 
+![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
+
+
+
 The management of a daycare system is a key responsibility for many municipalities around the world. 
 A municipality with an effective daycare system is well positioned to attract young families, which are the lifeblood of a vibrant community. 
 
