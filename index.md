@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# A Guide to Designing and Understanding Centralized Daycare Systems
+# A guide to designing and understanding centralized daycare admissions
 
 <br>
 <br>
