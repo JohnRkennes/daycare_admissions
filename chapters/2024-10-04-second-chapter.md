@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: Chapter 2
 tags: first draft
 categories: demo
 ---
