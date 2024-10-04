@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Welcome to the daycare project!
+# A Guide to Designing and Understanding Centralized Daycare Systems
 
 <br>
 <br>
