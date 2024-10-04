@@ -3,7 +3,6 @@ layout: home
 ---
 
 
-# A guide to centralized daycare admissions
 
 The management of a daycare system is a key responsibility for many municipalities around the world. 
 A municipality with an effective daycare system is well positioned to attract young families, which are the lifeblood of a vibrant community. 
