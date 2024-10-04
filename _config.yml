@@ -1,0 +1,9 @@
+# Site settings
+title: Guide to daycare
+author:
+  name: John Kennes
+  email: johnkennes@gmail.com
+description: "Site about daycare admission systems."
+
+# Build settings
+remote_theme: jekyll/minima
