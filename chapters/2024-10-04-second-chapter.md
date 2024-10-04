@@ -5,7 +5,7 @@ tags: first draft
 categories: demo
 ---
 
-# A brief introduction to Danish daycare policy
+
 
 ![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
 
