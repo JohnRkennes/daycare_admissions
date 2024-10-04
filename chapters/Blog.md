@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Policy
+title: Blog
 tags: first draft
 categories: demo
 ---
