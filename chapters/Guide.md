@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: Guide
 tags: first draft
 categories: demo
 ---
