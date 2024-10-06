@@ -3,9 +3,9 @@ layout: home
 ---
 
 
-<h1>Centralized daycare admissions </h1>	
+<h1>A guide to designing and understanding centralized daycare admission systems </h1>	
 
-<h2>How muncipalities can manage their daycare systems </h2>	
+<h2>Find information about daycare systems </h2>	
 
 
 
