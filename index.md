@@ -2,9 +2,12 @@
 layout: home
 ---
 
-#Guide
 
-##Denmark
+<h1>Centralized daycare admissions </h1>	
+
+<h2>How muncipalities can manage their daycare systems </h2>	
+
+
 
 
 ![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
