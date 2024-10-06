@@ -11,3 +11,7 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 
+header_pages:
+ - Denmark.md
+ - Copenhagen.md
+ - Research.md
