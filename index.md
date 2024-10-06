@@ -1,8 +1,5 @@
 ---
 layout: home
-published: true
-title: Page title
-order: 1
 ---
 
 
