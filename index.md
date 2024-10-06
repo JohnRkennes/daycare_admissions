@@ -1,7 +1,14 @@
 ---
 layout: home
+published: true
+title: Page title
+order: 1
 ---
 
+{% assign sorted_pages = site.pages | sort:"name" %}
+{% for node in sorted_pages %}
+  <li><a href="{{node.url}}">{{node.title}}</a></li>
+{% endfor %}
 
 
 ![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
